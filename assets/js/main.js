@@ -58,5 +58,5 @@ jQuery(document).ready(function ($) {
   new GitHubCalendar('#github-graph', 'meshack-mbuvi');
 
   /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
-  GitHubActivity.feed({ username: 'mdo', selector: '#ghfeed' });
+  GitHubActivity.feed({ username: 'meshack-mbuvi', selector: '#ghfeed' });
 });
